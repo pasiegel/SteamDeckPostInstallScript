@@ -33,6 +33,7 @@ This script automatically installs this programs -
 7. 7-zip - [click here for more details](https://7-zip.org/)
 8. ryzenadj - [click here for more details](https://github.com/FlyGoat/RyzenAdj)
 9. nircmd - [click here for more details](https://www.nirsoft.net/utils/nircmd.html)
+10. Steam - [click here for more details](https://store.steampowered.com/about/)
 
 ## Pre-requisites - What is needed for this to run correctly?
 1. Make sure you are connected to the Internet before running this script or else the HIDHide install will fail.
