@@ -30,11 +30,9 @@ This script automatically installs this programs -
 4. Tetherscript - [click here for more details](https://tetherscript.com/hid-driver-kit-download/)
 5. VIGEM - [click here for more details](https://github.com/ViGEm/ViGEmBus)
 6. HIDHIDE - [click here for more details](https://github.com/ViGEm/HidHide)
-7. RTSS - [click here for more details](https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html)
-8. Winrar - [click here for more details](https://www.win-rar.com/start.html?&L=0)
-9. HWINFO - [click here for more details](https://www.hwinfo.com/download/)
-10. ryzenadj - [click here for more details](https://github.com/FlyGoat/RyzenAdj)
-11. nircmd - [click here for more details](https://www.nirsoft.net/utils/nircmd.html)
+7. 7-zip - [click here for more details](https://7-zip.org/)
+8. ryzenadj - [click here for more details](https://github.com/FlyGoat/RyzenAdj)
+9. nircmd - [click here for more details](https://www.nirsoft.net/utils/nircmd.html)
 
 ## Pre-requisites - What is needed for this to run correctly?
 1. Make sure you are connected to the Internet before running this script or else the HIDHide install will fail.
