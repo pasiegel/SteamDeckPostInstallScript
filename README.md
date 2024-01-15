@@ -83,13 +83,3 @@ The script assumes that Steam is installed in C:\ProgramFiles(x86)\Steam. If Ste
 ### Screenshot for reference
 ![image](https://user-images.githubusercontent.com/98122529/201567368-4839d4f9-0472-4dfa-b564-47be2b07f8ec.png)
 ![image](https://user-images.githubusercontent.com/98122529/201567407-f39e2a42-662e-4279-a626-183b6420855e.png)
-
-
-## OPTIONAL ITEMS
-If you want to use autologin and unbranded boot, then edit the script and look at the heading called define variables.
-
-Edit the localname and localpassword accordingly. Then uncomment the lines and run the script again.
-
-### Screenshot for reference
-![image](https://user-images.githubusercontent.com/98122529/201535353-180887a5-09d9-4ee5-9926-d38993af9758.png)
-
