@@ -19,8 +19,7 @@ It also does not install the Valve drivers due to the size of the package. Grab 
 7. Sets time zone to Eastern Time Zone
 8. Disables XBOX gamebar DVR to prevent pop-up warning when using SWICD
 9. Automatically configures HIDHIDE to disable / hide the Neptune controller from Steam.
-10. Automatically configures RTSS and HWINFO for OnScreen Display similar to SteamOS.
-11. Sets scheduled tasks for HWINFO, RTSS and Checkmate_hotkeys
+10. Sets scheduled tasks Checkmate_hotkeys
 
 ## What Applications / Programs Does it Install?
 This script automatically installs this programs -
