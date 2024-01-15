@@ -1,7 +1,7 @@
 # SteamDeckPostInstallScript
 
 ## About
-This repository contains the script, packages and configs I use to automate the WindowsOnDeck installation guide.
+This repository contains the script, packages and configs I use to automate the WindowsOnDeck installation guide. This script is only intended for Steam Deck LCD and not OLED. I made these personalized script modifications for my own use. Sharing here for reference, but use at your own risk. 
 
 This is an inspiration from the post install script localted here [Original SteamDeckPostInstallScript.](https://github.com/ryanrudolfoba/SteamDeckPostInstallScript) This script installs the needed apps and configuration settings for WindowsOnDeck.
 
