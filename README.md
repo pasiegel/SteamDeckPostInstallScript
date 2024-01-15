@@ -3,7 +3,7 @@
 ## About
 This repository contains the script, packages and configs I use to automate the WindowsOnDeck installation guide.
 
-This is an inspiration from the [SteamDeck guide here.](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide) This script installs the needed apps and configuration settings for WindowsOnDeck - except the Equalizer and Peace GUI. I do not use this 2 applications so I did not add them to the script.
+This is an inspiration from the post install script localted here [Original SteamDeckPostInstallScript.](https://github.com/ryanrudolfoba/SteamDeckPostInstallScript) This script installs the needed apps and configuration settings for WindowsOnDeck.
 
 I would suggest to visit the [SteamDeck guide](https://github.com/baldsealion/Steamdeck-Ultimate-Windows11-Guide) first, as after running this script your SteamDeck will behave similar to the guide. I still need to learn the autohotkey scripting. For now this utilizes Checkmate AHK scripts.
 
