@@ -47,12 +47,6 @@ This script automatically installs this programs -
 ### Screenshot for reference
 ![tetherscript](https://user-images.githubusercontent.com/98122529/201535455-2895bf32-7a98-4acc-b4b1-e7512d543154.png)
 
-This automates almost all the manual tasks needed, including RTSS and HWINFO configuration for OnScreen Display.
-The RTSS OSD will have a horizontal layout for less clutter similar to SteamOS 3.4
-
-### Screenshot for reference
-![image](https://user-images.githubusercontent.com/98122529/201536541-5374331c-e4de-4da0-9169-f8e21e243c3f.png)
-
 ## HIDHIDE Configuration
 The script assumes that Steam is installed in C:\ProgramFiles(x86)\Steam. If Steam is installed elsewhere then HIDHIDE needs to be reconfigured. If Steam is installed in the default location C:\ProgramFiles(x86)\Steam, then no action is needed.
 1. Open the HIDHIDE desktop shortcut.
